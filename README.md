@@ -46,18 +46,9 @@ RPA Developer passionate about process automation and delivering efficient solut
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renato245&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato245&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
-
 ## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-Renato%20Carvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-carvalho-assun%C3%A7%C3%A3o-da-silva-196316232/)
 
-[![LinkedIn](https://img.shields.io/badge/-Renato%20Carvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/renatocarvalhod](https://www.linkedin.com/in/renato-carvalho-assun%C3%A7%C3%A3o-da-silva-196316232/))
 
 ---
 
